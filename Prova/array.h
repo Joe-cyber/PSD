@@ -1,0 +1,17 @@
+int minimo(int[],int);
+void selection_sort(int[],int);
+void inserimento(int[],int);
+void stampa(int[],int);
+void inserisci_elemento_ordinato(int[],int*,int);
+int confronta_array(int[],int[],int,int);
+int input_array_str(int *,char*);
+void bubble_sort(int[],int);
+void insertion_sort(int[],int);
+int somma_array(int[],int);
+void elimina_elemento(int[],int*,int);
+int ricerca_ingenua(int[],int,int);
+int ricerca_array_ordinato(int[],int,int);
+int ricerca_binaria(int[],int,int);
+int prodotto_scalare(int[],int[],int,int);
+void somma_vettori(int[],int[],int[],int);
+int* input_array_str_dinamico(int*,char*);

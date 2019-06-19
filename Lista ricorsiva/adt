@@ -1,0 +1,7 @@
+new_list()->List
+is_empty(List)->boolean
+add_head(List,Item)->List
+remove_head(List)->List
+get_first(List)->Item
+sort_list(List)->List
+print_list(list)->void

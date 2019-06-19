@@ -1,0 +1,6 @@
+#include"song.h"
+new_playlist(string)->Playlist
+insert_song(Item)->Playist
+remove_song(Title)->Playist
+sort_playlist(Playlist)->Playist
+print_playlist(Playlist)->Null

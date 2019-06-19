@@ -1,0 +1,14 @@
+		sintattica					semantica
+nome del tipo:					dominio:
+tipi di dati usati:
+
+crea_punto(reale,reale) -> punto		precondizione:
+						post condizione:
+
+ascissa(punto)->reale				precondizione:
+						post condizione:
+
+ordinata(punto)->reale				precondizione:
+						post condizione:
+distanza(punto,punto)->reale			precondizione:
+						post condizione:
